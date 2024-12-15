@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: a NullPointerException when accessing properties of an event target that might be null.  The `bug.as` file shows the problematic code, while `bugSolution.as` provides a solution using null checks.
